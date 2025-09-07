@@ -7,7 +7,7 @@ const messages = [
   "Oh come on, please say yes 🥺",
   "Think about how cute we will be together 😍",
   "I promise to bring you food always 🍔",
-  "Okay, if you insist... Press No. 😭",
+  "Okay, if you insist... I stand no chance? 😭",
 ];
 
 export default function PleadPage({ params }: { params: { step: string } }) {
