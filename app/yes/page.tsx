@@ -1,0 +1,15 @@
+export default function YesPage() {
+  return (
+    <main className="flex flex-col items-center justify-center h-screen bg-gray-300">
+      <h1 className="text-5xl font-black text-pink-400 mb-6">Yay! 🎉💕🎉</h1>
+      <p className="text-xl text-pink-400">You just made my day sweetheart.</p>
+
+      <div className="mt-8">
+        <img src="/gifs/I_love_flirting.gif" alt="Flirting Giphy" />
+        <img src="/gifs/happy.gif" alt="Happy Giphy" />
+      </div>
+
+      <p className="pt-40 text-center text-pink-400">Pet (truly a boring moment birthed this) project by Azara.</p>
+    </main>
+  )
+}
