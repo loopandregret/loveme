@@ -23,6 +23,10 @@ export default function Home() {
           </button>
         </div>
 
+        <div className="mt-8">
+          <img src="/gifs/tom_proposal.gif" alt="Proposal" />
+        </div>
+
         <p className="pt-40 text-center text-gray-200">Pet (truly a boring moment birthed this) project by Azara.</p>
       </main>
     </div>
