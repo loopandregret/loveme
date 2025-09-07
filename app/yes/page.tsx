@@ -9,7 +9,7 @@ export default function YesPage() {
         <img src="/gifs/happy.gif" alt="Happy Giphy" />
       </div>
 
-      <p className="pt-40 text-center text-pink-400">Pet (truly a boring moment birthed this) project by Azara.</p>
+      <p className="pt-40 text-center text-pink-400">Pet (truly boredom birthed this) project by Azara.</p>
     </main>
   )
 }

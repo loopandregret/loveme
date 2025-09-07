@@ -132,7 +132,7 @@ export default function PleadPage({ params }: { params: { step: string } }) {
         </div>
       )}
 
-      <p className="pt-10 text-center text-gray-200">Pet (truly a boring moment birthed this) project by Azara.</p>
+      <p className="pt-10 text-center text-gray-200">Pet (truly boredom birthed this) project by Azara.</p>
     </main>
   )
 }
